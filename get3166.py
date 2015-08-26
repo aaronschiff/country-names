@@ -29,12 +29,12 @@ for row in countriesTable.findAll('tr'):
 			items.append(link.get('href'))
 	report.append(items)
 	
-# header = ['Code', 'Country name', 'Year', 'ccTLD', 'ISO 3166-2', 'Notes']
+header = ['Code', 'Name', 'Country-link', 'Year', 'TLD', 'TLD-link', 'Group', 'Group-link', 'Notes']
 
 with open('countries.csv', 'wb') as f:
 	writer = csv.writer(f)
-	# writer.writerow(header)
+	writer.writerow(header)
 	for row in report:
 		writer.writerow(row[0:9])		# Write first 9 columns only
-#	writer.writerows(row for row in report if row)
+
 	
