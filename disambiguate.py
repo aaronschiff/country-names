@@ -9,16 +9,15 @@ with open('countries.csv', 'rb') as countriescsv:
 	
 	for row in reader:
 		link = dbpediaPrefix + row['Country-link'][6:] + '>'		# Remove '/wiki/' from link and create dbpedia link
-		country = row['Name']
-		countries[country] = {'link': link, 'alternatives': []}
+		name = row['Name']
+		countries[link] = {'name': name, 'alternatives': []}
 
 # Parse transitive links file one line at a time
 with open('transitive-redirects_en.ttl', 'rb') as linksfile:
 	for line in linksfile:
 		items = line.split()
 		
-		possibleCountry = items[2][len(dbpediaPrefix):][:-1]	# Extract possible country name
-		possibleCountry = possibleCountry.replace("_", " ")
+		possibleCountry = items[2]		# Extract possible country link
 		
 		if possibleCountry in countries:
 			alt = items[0][len(dbpediaPrefix):][:-1]
@@ -30,6 +29,6 @@ with open('country-names-cross-ref.csv', 'wb') as f:
 	writer = csv.writer(f)
 	for country, info in sorted(countries.items()):
 		for alt in info['alternatives']:
-			row = [alt, country]
+			row = [alt, info['name']]
 			writer.writerow(row)
 
