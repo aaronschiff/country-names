@@ -8,4 +8,6 @@ The script disambiguate.py generates a lookup table of alternative names for eac
 
 The end result is a CSV file with two columns: alternative country names, and standardised (ISO 3166) names. 
 
+Some alternative country names that are not in fact country names will be included due to the way that Wikipedia redirects are stored in dbpedia, but this shouldn't matter much aside from making the lookup table a bit bigger than necessary.
+
 The code is quite fragile and slow, but it should not be necessary to run it frequently. 
