@@ -26,7 +26,7 @@ for row in countriesTable.findAll('tr'):
 	for td in row.findAll('td'): 
 		items.append(td.get_text().encode('utf8'))
 		for link in td.findAll('a'):
-			items.append(link.get('href'))
+			items.append(urllib2.unquote(link.get('href').encode('utf8')))		# Contortions required here to handle special characters
 	report.append(items)
 	
 header = ['Code', 'Name', 'Country-link', 'Year', 'TLD', 'TLD-link', 'Group', 'Group-link', 'Notes']

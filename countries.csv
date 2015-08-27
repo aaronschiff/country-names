@@ -15,7 +15,7 @@ AS,American Samoa,/wiki/American_Samoa,1974,.as,/wiki/.as,ISO 3166-2:AS,/wiki/IS
 AT,Austria,/wiki/Austria,1974,.at,/wiki/.at,ISO 3166-2:AT,/wiki/ISO_3166-2:AT,
 AU,Australia,/wiki/Australia,1974,.au,/wiki/.au,ISO 3166-2:AU,/wiki/ISO_3166-2:AU,Includes the Ashmore and Cartier Islands and the Coral Sea Islands
 AW,Aruba,/wiki/Aruba,1986,.aw,/wiki/.aw,ISO 3166-2:AW,/wiki/ISO_3166-2:AW,
-AX,Aland Islands !Åland Islands,/wiki/%C3%85land_Islands,2004,.ax,/wiki/.ax,ISO 3166-2:AX,/wiki/ISO_3166-2:AX,An autonomous province of Finland
+AX,Aland Islands !Åland Islands,/wiki/Åland_Islands,2004,.ax,/wiki/.ax,ISO 3166-2:AX,/wiki/ISO_3166-2:AX,An autonomous province of Finland
 AZ,Azerbaijan,/wiki/Azerbaijan,1992,.az,/wiki/.az,ISO 3166-2:AZ,/wiki/ISO_3166-2:AZ,
 BA,Bosnia and Herzegovina,/wiki/Bosnia_and_Herzegovina,1992,.ba,/wiki/.ba,ISO 3166-2:BA,/wiki/ISO_3166-2:BA,
 BB,Barbados,/wiki/Barbados,1974,.bb,/wiki/.bb,ISO 3166-2:BB,/wiki/ISO_3166-2:BB,
@@ -26,7 +26,7 @@ BG,Bulgaria,/wiki/Bulgaria,1974,.bg,/wiki/.bg,ISO 3166-2:BG,/wiki/ISO_3166-2:BG,
 BH,Bahrain,/wiki/Bahrain,1974,.bh,/wiki/.bh,ISO 3166-2:BH,/wiki/ISO_3166-2:BH,
 BI,Burundi,/wiki/Burundi,1974,.bi,/wiki/.bi,ISO 3166-2:BI,/wiki/ISO_3166-2:BI,
 BJ,Benin,/wiki/Benin,1977,.bj,/wiki/.bj,ISO 3166-2:BJ,/wiki/ISO_3166-2:BJ,Name changed from Dahomey (DY)
-BL,Saint Barthélemy,/wiki/Saint_Barth%C3%A9lemy,2007,.bl,/wiki/.bl,ISO 3166-2:BL,/wiki/ISO_3166-2:BL,
+BL,Saint Barthélemy,/wiki/Saint_Barthélemy,2007,.bl,/wiki/.bl,ISO 3166-2:BL,/wiki/ISO_3166-2:BL,
 BM,Bermuda,/wiki/Bermuda,1974,.bm,/wiki/.bm,ISO 3166-2:BM,/wiki/ISO_3166-2:BM,
 BN,Brunei Darussalam,/wiki/Brunei,1974,.bn,/wiki/.bn,ISO 3166-2:BN,/wiki/ISO_3166-2:BN,ISO country name follows UN designation (common name: Brunei)
 BO,"Bolivia, Plurinational State of",/wiki/Bolivia,1974,.bo,/wiki/.bo,ISO 3166-2:BO,/wiki/ISO_3166-2:BO,ISO country name follows UN designation (common name and previous ISO country name: Bolivia)
@@ -56,7 +56,7 @@ CO,Colombia,/wiki/Colombia,1974,.co,/wiki/.co,ISO 3166-2:CO,/wiki/ISO_3166-2:CO,
 CR,Costa Rica,/wiki/Costa_Rica,1974,.cr,/wiki/.cr,ISO 3166-2:CR,/wiki/ISO_3166-2:CR,
 CU,Cuba,/wiki/Cuba,1974,.cu,/wiki/.cu,ISO 3166-2:CU,/wiki/ISO_3166-2:CU,
 CV,Cabo Verde,/wiki/Cabo_Verde,1974,.cv,/wiki/.cv,ISO 3166-2:CV,/wiki/ISO_3166-2:CV,
-CW,Curaçao,/wiki/Cura%C3%A7ao,2010,.cw,/wiki/.cw,ISO 3166-2:CW,/wiki/ISO_3166-2:CW,
+CW,Curaçao,/wiki/Curaçao,2010,.cw,/wiki/.cw,ISO 3166-2:CW,/wiki/ISO_3166-2:CW,
 CX,Christmas Island,/wiki/Christmas_Island,1974,.cx,/wiki/.cx,ISO 3166-2:CX,/wiki/ISO_3166-2:CX,
 CY,Cyprus,/wiki/Cyprus,1974,.cy,/wiki/.cy,ISO 3166-2:CY,/wiki/ISO_3166-2:CY,
 CZ,Czech Republic,/wiki/Czech_Republic,1993,.cz,/wiki/.cz,ISO 3166-2:CZ,/wiki/ISO_3166-2:CZ,
@@ -196,7 +196,7 @@ PT,Portugal,/wiki/Portugal,1974,.pt,/wiki/.pt,ISO 3166-2:PT,/wiki/ISO_3166-2:PT,
 PW,Palau,/wiki/Palau,1986,.pw,/wiki/.pw,ISO 3166-2:PW,/wiki/ISO_3166-2:PW,
 PY,Paraguay,/wiki/Paraguay,1974,.py,/wiki/.py,ISO 3166-2:PY,/wiki/ISO_3166-2:PY,
 QA,Qatar,/wiki/Qatar,1974,.qa,/wiki/.qa,ISO 3166-2:QA,/wiki/ISO_3166-2:QA,
-RE,Reunion !Réunion,/wiki/R%C3%A9union,1974,.re,/wiki/.re,ISO 3166-2:RE,/wiki/ISO_3166-2:RE,
+RE,Reunion !Réunion,/wiki/Réunion,1974,.re,/wiki/.re,ISO 3166-2:RE,/wiki/ISO_3166-2:RE,
 RO,Romania,/wiki/Romania,1974,.ro,/wiki/.ro,ISO 3166-2:RO,/wiki/ISO_3166-2:RO,
 RS,Serbia,/wiki/Serbia,2006,.rs,/wiki/.rs,ISO 3166-2:RS,/wiki/ISO_3166-2:RS,Code taken from official name: Republic of Serbia (see Serbian country codes)
 RU,Russian Federation,/wiki/Russia,1992,.ru,/wiki/.ru,ISO 3166-2:RU,/wiki/ISO_3166-2:RU,ISO country name follows UN designation (common name: Russia)
@@ -217,7 +217,7 @@ SN,Senegal,/wiki/Senegal,1974,.sn,/wiki/.sn,ISO 3166-2:SN,/wiki/ISO_3166-2:SN,
 SO,Somalia,/wiki/Somalia,1974,.so,/wiki/.so,ISO 3166-2:SO,/wiki/ISO_3166-2:SO,
 SR,Suriname,/wiki/Suriname,1974,.sr,/wiki/.sr,ISO 3166-2:SR,/wiki/ISO_3166-2:SR,
 SS,South Sudan,/wiki/South_Sudan,2011,.ss,/wiki/.ss,ISO 3166-2:SS,/wiki/ISO_3166-2:SS,
-ST,Sao Tome and Principe,/wiki/S%C3%A3o_Tom%C3%A9_and_Pr%C3%ADncipe,1974,.st,/wiki/.st,ISO 3166-2:ST,/wiki/ISO_3166-2:ST,
+ST,Sao Tome and Principe,/wiki/São_Tomé_and_Príncipe,1974,.st,/wiki/.st,ISO 3166-2:ST,/wiki/ISO_3166-2:ST,
 SV,El Salvador,/wiki/El_Salvador,1974,.sv,/wiki/.sv,ISO 3166-2:SV,/wiki/ISO_3166-2:SV,
 SX,Sint Maarten (Dutch part),/wiki/Sint_Maarten,2010,.sx,/wiki/.sx,ISO 3166-2:SX,/wiki/ISO_3166-2:SX,The French part of Saint Martin island is assigned code MF
 SY,Syrian Arab Republic,/wiki/Syria,1974,.sy,/wiki/.sy,ISO 3166-2:SY,/wiki/ISO_3166-2:SY,ISO country name follows UN designation (common name: Syria)
