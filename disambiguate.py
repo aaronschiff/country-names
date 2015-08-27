@@ -28,7 +28,7 @@ with open('transitive-redirects_en.ttl', 'rb') as linksfile:
 # Output csv file of countries and alternatives
 with open('country-names-cross-ref.csv', 'wb') as f:
 	writer = csv.writer(f)
-	for country, info in countries.items():
+	for country, info in sorted(countries.items()):
 		for alt in info['alternatives']:
 			row = [alt, country]
 			writer.writerow(row)
