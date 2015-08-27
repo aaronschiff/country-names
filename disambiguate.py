@@ -32,3 +32,4 @@ with open('country-names-cross-ref.csv', 'wb') as f:
 			row = [alt, info['name']]
 			writer.writerow(row)
 
+

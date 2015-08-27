@@ -15,7 +15,7 @@ AS,American Samoa,/wiki/American_Samoa,1974,.as,/wiki/.as,ISO 3166-2:AS,/wiki/IS
 AT,Austria,/wiki/Austria,1974,.at,/wiki/.at,ISO 3166-2:AT,/wiki/ISO_3166-2:AT,
 AU,Australia,/wiki/Australia,1974,.au,/wiki/.au,ISO 3166-2:AU,/wiki/ISO_3166-2:AU,Includes the Ashmore and Cartier Islands and the Coral Sea Islands
 AW,Aruba,/wiki/Aruba,1986,.aw,/wiki/.aw,ISO 3166-2:AW,/wiki/ISO_3166-2:AW,
-AX,Aland Islands !Åland Islands,/wiki/Åland_Islands,2004,.ax,/wiki/.ax,ISO 3166-2:AX,/wiki/ISO_3166-2:AX,An autonomous province of Finland
+AX,Åland Islands,/wiki/Åland_Islands,2004,.ax,/wiki/.ax,ISO 3166-2:AX,/wiki/ISO_3166-2:AX,An autonomous province of Finland
 AZ,Azerbaijan,/wiki/Azerbaijan,1992,.az,/wiki/.az,ISO 3166-2:AZ,/wiki/ISO_3166-2:AZ,
 BA,Bosnia and Herzegovina,/wiki/Bosnia_and_Herzegovina,1992,.ba,/wiki/.ba,ISO 3166-2:BA,/wiki/ISO_3166-2:BA,
 BB,Barbados,/wiki/Barbados,1974,.bb,/wiki/.bb,ISO 3166-2:BB,/wiki/ISO_3166-2:BB,
@@ -47,7 +47,7 @@ CD,"Congo, the Democratic Republic of the",/wiki/Democratic_Republic_of_the_Cong
 CF,Central African Republic,/wiki/Central_African_Republic,1974,.cf,/wiki/.cf,ISO 3166-2:CF,/wiki/ISO_3166-2:CF,
 CG,Congo,/wiki/Republic_of_the_Congo,1974,.cg,/wiki/.cg,ISO 3166-2:CG,/wiki/ISO_3166-2:CG,
 CH,Switzerland,/wiki/Switzerland,1974,.ch,/wiki/.ch,ISO 3166-2:CH,/wiki/ISO_3166-2:CH,Code taken from name in Latin: Confoederatio Helvetica
-CI,Cote d'Ivoire !Côte d'Ivoire,/wiki/Ivory_Coast,1974,.ci,/wiki/.ci,ISO 3166-2:CI,/wiki/ISO_3166-2:CI,
+CI,Côte d'Ivoire,/wiki/Ivory_Coast,1974,.ci,/wiki/.ci,ISO 3166-2:CI,/wiki/ISO_3166-2:CI,
 CK,Cook Islands,/wiki/Cook_Islands,1974,.ck,/wiki/.ck,ISO 3166-2:CK,/wiki/ISO_3166-2:CK,
 CL,Chile,/wiki/Chile,1974,.cl,/wiki/.cl,ISO 3166-2:CL,/wiki/ISO_3166-2:CL,
 CM,Cameroon,/wiki/Cameroon,1974,.cm,/wiki/.cm,ISO 3166-2:CM,/wiki/ISO_3166-2:CM,
@@ -196,7 +196,7 @@ PT,Portugal,/wiki/Portugal,1974,.pt,/wiki/.pt,ISO 3166-2:PT,/wiki/ISO_3166-2:PT,
 PW,Palau,/wiki/Palau,1986,.pw,/wiki/.pw,ISO 3166-2:PW,/wiki/ISO_3166-2:PW,
 PY,Paraguay,/wiki/Paraguay,1974,.py,/wiki/.py,ISO 3166-2:PY,/wiki/ISO_3166-2:PY,
 QA,Qatar,/wiki/Qatar,1974,.qa,/wiki/.qa,ISO 3166-2:QA,/wiki/ISO_3166-2:QA,
-RE,Reunion !Réunion,/wiki/Réunion,1974,.re,/wiki/.re,ISO 3166-2:RE,/wiki/ISO_3166-2:RE,
+RE,Réunion,/wiki/Réunion,1974,.re,/wiki/.re,ISO 3166-2:RE,/wiki/ISO_3166-2:RE,
 RO,Romania,/wiki/Romania,1974,.ro,/wiki/.ro,ISO 3166-2:RO,/wiki/ISO_3166-2:RO,
 RS,Serbia,/wiki/Serbia,2006,.rs,/wiki/.rs,ISO 3166-2:RS,/wiki/ISO_3166-2:RS,Code taken from official name: Republic of Serbia (see Serbian country codes)
 RU,Russian Federation,/wiki/Russia,1992,.ru,/wiki/.ru,ISO 3166-2:RU,/wiki/ISO_3166-2:RU,ISO country name follows UN designation (common name: Russia)
