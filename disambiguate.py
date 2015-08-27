@@ -27,9 +27,15 @@ with open('transitive-redirects_en.ttl', 'rb') as linksfile:
 # Output csv file of countries and alternatives
 with open('country-names-cross-ref.csv', 'wb') as f:
 	writer = csv.writer(f)
+	
+	# Write out main lookup table
 	for country, info in sorted(countries.items()):
 		for alt in info['alternatives']:
 			row = [alt, info['name']]
 			writer.writerow(row)
 
-
+	# Hacks for special cases not included in dbpedia
+	row = ['Burma', 'Myanmar']
+	writer.writerow(row)
+	row = ['Cape Verde', 'Cabo Verde']
+	writer.writerow(row)
